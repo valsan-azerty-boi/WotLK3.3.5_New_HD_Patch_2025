@@ -417,6 +417,10 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+*.zip
+*.7z
+*.rar
+todo.txt
 /oldBackup
 /DBFilesClient/GitChanges
 /DBFilesClient/ChrRaces.dbc.bak
