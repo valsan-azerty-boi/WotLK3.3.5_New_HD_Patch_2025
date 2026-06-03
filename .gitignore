@@ -421,9 +421,9 @@ FodyWeavers.xsd
 *.7z
 *.rar
 todo.txt
-/oldBackup
-/DBFilesClient/GitChanges
-/DBFilesClient/ChrRaces.dbc.bak
+oldBackup/
+DBFilesClient/GitChanges
+DBFilesClient/ChrRaces.dbc.bak
 Creature/arator/arator_68fixed.blp
 Creature/dragon2/cache/*
 Creature/tuskarr_hd/geosets.txt
@@ -432,6 +432,7 @@ Creature/Horse/PyModelEditor/*
 Creature/NightmareNew/other/*
 Creature/NightmareNew/*.png
 Creature/NightmareNew/old/*
-/Creature/UndeadHorse2/test
+Creature/UndeadHorse2/test
 Creature/Nightbane/old/*
+Creature/Overwatch/*
 *.MPQ
