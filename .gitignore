@@ -420,21 +420,10 @@ FodyWeavers.xsd
 *.zip
 *.7z
 *.rar
+*.MPQ
 todo.txt
-oldBackup/
-DBFilesClient/GitChanges
-DBFilesClient/ChrRaces.dbc.bak
-Creature/arator/arator_68fixed.blp
 Creature/dragon2/cache/*
 Creature/tuskarr_hd/geosets.txt
-Creature/tuskarr_hd/fem/*
-Creature/Horse/PyModelEditor/*
-Creature/NightmareNew/other/*
-Creature/NightmareNew/*.png
-Creature/NightmareNew/old/*
-Creature/UndeadHorse2/test
-Creature/Nightbane/old/*
 Creature/Overwatch/*
 Creature/OverwatchToDo/*
-*.MPQ
-World/generic/UNDEAD/PASSIVE DOODADS/BatRoost/todo
+dragonmash/
