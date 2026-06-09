@@ -28,13 +28,13 @@ As for the intellectual property of Bl'zzard and M'crosoft, there's obviously no
 On a legal level, however, rofl.
 
 ## Credits and SO
-- Finsternis
-- Morfium
-- Atraxian
+- [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/)
+- [Morfium](https://github.com/Morfium-G)
+- [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/)
 - [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
 - [TomKek](https://www.youtube.com/@Tomkektv)
 - Dragonmash's [Epsilon team](https://epsilonwow.net)
-- The instigator of this repository: [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
+- Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
 <br />
