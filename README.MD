@@ -33,6 +33,7 @@ On a legal level, however, rofl.
 - Atraxian
 - [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
 - [TomKek](https://www.youtube.com/@Tomkektv)
+- Dragonmash's [Epsilon team](https://epsilonwow.net)
 - The instigator of this repository: [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
