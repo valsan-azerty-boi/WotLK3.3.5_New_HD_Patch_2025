@@ -34,6 +34,7 @@ On a legal level, however, rofl.
 - [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
 - [TomKek](https://www.youtube.com/@Tomkektv)
 - Dragonmash's [Epsilon team](https://epsilonwow.net)
+- [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods) for the baked texture generator script
 - Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
