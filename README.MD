@@ -31,12 +31,13 @@ On a legal level, however, rofl.
 - [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/)
 - [Morfium](https://github.com/Morfium-G)
 - [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/)
-- [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
-- [TomKek](https://www.youtube.com/@Tomkektv)
-- Dragonmash's [Epsilon team](https://epsilonwow.net)
-- [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods) for the baked texture generator script
+- A lot of Ogres & other models by [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
+- A lot of mounts by [TomKek](https://www.youtube.com/@Tomkektv)
+- Onyxia & Nefarian by Dragonmash's [Epsilon team](https://epsilonwow.net)
+- CrystalDryad & FrostNymph by Silverbabywolfz/Kass
+- Hd baked textures generator script by [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods)
 - Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
 <br />
-<img src="https://staticdelivery.nexusmods.com/mods/1416/images/891/891-1780092959-308305056.jpg" width="250" />
+<img src="https://staticdelivery.nexusmods.com/mods/1416/images/891/891-1780092959-308305056.jpg" width="250" alt="HD Zul'Jin custom model by valsan-azerty-boi" />
