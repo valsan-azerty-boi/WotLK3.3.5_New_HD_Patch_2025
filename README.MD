@@ -6,8 +6,8 @@
 A respectful Creatures & Mounts patch for WoW 3.3.5
 
 The goal is to stay as close as possible to the original models of the characters, creatures and mounts from WotLK.
-This patch/mod only affect creatures and mounts.
-No scenery or landscape assets have been updated.
+This patch/mod only affect characters, creatures and mounts.
+No scenery or landscape (.wmo) assets have been updated.
 Not everything has been HD-ified, but a good part have been.
 
 The patch contains some raw ported model from retail client, but also a lot of custom models and textures.
@@ -35,6 +35,7 @@ On a legal level, however, rofl.
 - A lot of mounts by [TomKek](https://www.youtube.com/@Tomkektv)
 - Onyxia & Nefarian by Dragonmash's [Epsilon team](https://epsilonwow.net)
 - CrystalDryad & FrostNymph by Silverbabywolfz/Kass
+- Necromancer by Ascension
 - Hd baked textures generator script by [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods)
 - Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
