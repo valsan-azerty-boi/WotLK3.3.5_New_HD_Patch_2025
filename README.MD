@@ -36,7 +36,7 @@ On a legal level, however, rofl.
 - Onyxia & Nefarian by Dragonmash's [Epsilon team](https://epsilonwow.net)
 - CrystalDryad & FrostNymph by Silverbabywolfz/Kass
 - Necromancer by Ascension
-- Hd baked textures generator script by [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods)
+- Hd baked textures generator script by [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods) + some Audia fixes
 - Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
