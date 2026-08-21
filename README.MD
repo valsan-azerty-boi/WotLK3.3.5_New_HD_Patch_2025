@@ -6,8 +6,8 @@
 A respectful Creatures & Mounts patch for WoW 3.3.5
 
 The goal is to stay as close as possible to the original models of the characters, creatures and mounts from WotLK.
-This patch/mod only affect creatures and mounts.
-No scenery or landscape assets have been updated.
+This patch/mod only affect characters, creatures and mounts.
+No scenery or landscape (.wmo) assets have been updated.
 Not everything has been HD-ified, but a good part have been.
 
 The patch contains some raw ported model from retail client, but also a lot of custom models and textures.
@@ -31,12 +31,14 @@ On a legal level, however, rofl.
 - [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/)
 - [Morfium](https://github.com/Morfium-G)
 - [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/)
-- [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
-- [TomKek](https://www.youtube.com/@Tomkektv)
-- Dragonmash's [Epsilon team](https://epsilonwow.net)
-- [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods) for the baked texture generator script
+- A lot of Ogres & other models by [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
+- A lot of mounts by [TomKek](https://www.youtube.com/@Tomkektv)
+- Onyxia & Nefarian by Dragonmash's [Epsilon team](https://epsilonwow.net)
+- CrystalDryad & FrostNymph by Silverbabywolfz/Kass
+- Necromancer by Ascension
+- Hd baked textures generator script by [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods) + some Audia fixes
 - Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
 - All other anonymous contributors
 
 <br />
-<img src="https://staticdelivery.nexusmods.com/mods/1416/images/891/891-1780092959-308305056.jpg" width="250" />
+<img src="https://staticdelivery.nexusmods.com/mods/1416/images/891/891-1780092959-308305056.jpg" width="250" alt="HD Zul'Jin custom model by valsan-azerty-boi" />
