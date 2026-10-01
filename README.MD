@@ -28,13 +28,13 @@ As for the intellectual property of Bl'zzard and M'crosoft, there's obviously no
 On a legal level, however, rofl.
 
 ## Credits and SO
-- [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/)
-- [Morfium](https://github.com/Morfium-G)
-- [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/)
+- [Project Reforged](https://projectreforged.github.io/) & [Open Azeroth](https://discord.gg/YM8TSYPe)
+- [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/) & [Morfium](https://github.com/Morfium-G) & [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/)
 - A lot of Ogres & other models by [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
 - A lot of mounts by [TomKek](https://www.youtube.com/@Tomkektv)
 - Onyxia & Nefarian by Dragonmash's [Epsilon team](https://epsilonwow.net)
 - CrystalDryad & FrostNymph by Silverbabywolfz/Kass
+- Northrend Skeleton by Frozenknigt
 - Necromancer by Ascension
 - Hd baked textures generator script by [Maribeth/OdysseyMods](https://www.nexusmods.com/profile/OdysseyMods) + some Audia fixes
 - Instigator of this repository/patch [valsan-azerty-boi](https://github.com/valsan-azerty-boi)
