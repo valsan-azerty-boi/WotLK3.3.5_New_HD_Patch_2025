@@ -29,8 +29,8 @@ On a legal level, however, rofl.
 
 ## Credits and SO
 - [Project Reforged](https://projectreforged.github.io/) & [Open Azeroth](https://discord.gg/YM8TSYPe)
-- [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/) & [Morfium](https://github.com/Morfium-G) & [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/)
-- A lot of Ogres & other models by [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
+- [Finsternis](https://www.wowmodding.net/profile/1049-finsternis/) & [Morfium](https://github.com/Morfium-G) & [Atraxian](https://www.wowmodding.net/profile/12181-atraxian/) & [Appletrey](https://www.patreon.com/cw/Appletrey)
+- A lot of Ogres, DK & other models by [Kraulspine](https://bsky.app/profile/kraulspine.bsky.social)
 - A lot of mounts by [TomKek](https://www.youtube.com/@Tomkektv)
 - Onyxia & Nefarian by Dragonmash's [Epsilon team](https://epsilonwow.net)
 - CrystalDryad & FrostNymph by Silverbabywolfz/Kass
